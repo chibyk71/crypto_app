@@ -1,6 +1,4 @@
 <script>
-	import Logo from '$lib/components/Logo.svelte';
-	import Nav from '$lib/components/Nav.svelte';
 </script>
 
 <div class="auth">
